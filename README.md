@@ -12,3 +12,4 @@ Before starting:
           
           pass:   admin
           
+WWW: https://php-solution.000webhostapp.com
