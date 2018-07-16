@@ -1,4 +1,4 @@
-# PC_Admin_Panel-Integrated-with-PHP_SOLUTION
+# PC_Admin_Panel
 
 Program is integrated with PHP_SOLUTION written in PHP
 
